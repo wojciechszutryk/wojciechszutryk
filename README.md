@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 ### Hi there 👋
 #My name is Wojciech.
 
-🔭 I’m currently working on my enginering thesis
+🔭 I’m currently working on my enginering thesis.
 
-🔧 I’m currently developing my programming skills
+🔧 I’m currently developing my programming skills.
 
-🤔 I’m looking for my first job as fontend developer
+🤔 I’m looking for my first job as fontend developer.
 
 ⚡ Love playing Games, developing my scills, cooking, working out.
 
-📫 Ask me about anything, reach me via:
-Email
+📫 Ask me about anything, reach me via: wojtekszutryk@gmail.com
