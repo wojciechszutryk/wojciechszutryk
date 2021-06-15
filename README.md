@@ -16,26 +16,13 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-My name is Wojciech.
-
-GIF
+#My name is Wojciech.
 
 🔭 I’m currently working on my enginering thesis
 
 🔧 I’m currently developing my programming skills
 
 🤔 I’m looking for my first job as fontend developer
-
-Badge
-Badge
-Badge
-Badge
-Badge
-Badge
-Badge
-Badge
-Badge
-Badge
 
 ⚡ Love playing Games, developing my scills, cooking, working out.
 
