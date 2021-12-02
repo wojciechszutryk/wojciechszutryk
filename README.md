@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 ### Hi there 👋
 #My name is Wojciech.
 
-🔭 I’m currently working on Millenium Studio
+🔭 I’m currently working in SwarmCheck
 
 🌱 I’m currently working on my enginering thesis.
 
 🔧 I’m currently developing my programming skills.
-
-🤔 I’m looking for my first job as react/js developer.
 
 ⚡ Love playing Games, developing my scills, cooking, working out.
 
