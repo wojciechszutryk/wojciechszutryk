@@ -18,10 +18,16 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working in SwarmCheck
 
-🌱 I’m currently working on my enginering thesis.
+🌱 I’m currently working on my enginering thesis in Computer Science.
+
+😄 I have a bachelor of science degree in geodesy and cartography.
 
 🔧 I’m currently developing my programming skills.
 
 ⚡ Love playing Games, developing my scills, cooking, working out.
 
 📫 Ask me about anything, reach me via: wojtekszutryk@gmail.com
+
+💬 links:
+
+- portfolio: https://www.szutryk.com.pl/
