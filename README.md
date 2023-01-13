@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working in SwarmCheck
 
-🌱 I’m currently working on my enginering thesis in Computer Science.
-
-😄 I have a bachelor of science degree in geodesy and cartography.
+😄 I have a bachelor of science degree in Computer Science and Geodesy and Cartography.
 
 🔧 I’m currently developing my programming skills.
 
