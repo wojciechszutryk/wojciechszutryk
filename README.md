@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 🔧 I’m currently developing my programming skills.
 
-⚡ Love playing Games, developing my scills, cooking, working out.
+⚡ Love playing Games, developing my skills, cooking, working out.
 
 📫 Ask me about anything, reach me via: wojtekszutryk@gmail.com
 
 💬 links:
 
-- portfolio: https://www.szutryk.com.pl/
+- portfolio: https://wojciechszutryk.github.io/portfolio/
