@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 💬 links:
 
 - portfolio: https://wojciechszutryk.github.io/portfolio/
+
+[![](https://visitcount.itsvg.in/api?id=wojciechszutryk&label=Profile%20Views&color=10&pretty=false)](https://visitcount.itsvg.in)
