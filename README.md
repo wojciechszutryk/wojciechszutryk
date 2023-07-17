@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 📫 Ask me about anything, reach me via: wojtekszutryk@gmail.com
 
 💬 links:
+![Static Badge](https://img.shields.io/badge/portfolio)
+
+[![Portfolio](https://img.shields.io/badge/portfolio)](https://wojciechszutryk.github.io/portfolio/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wojciech-szutryk-693142215/) 
 
 - portfolio: https://wojciechszutryk.github.io/portfolio/
 
