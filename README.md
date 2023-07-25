@@ -28,7 +28,7 @@ My name is Wojciech.
 
 # 💬 links:
 
-[![Webiste](https://img.shields.io/badge/PORTFOLIO-8A2BE2)](https://wojciechszutryk.github.io/portfolio/) 
+[![Webiste](https://img.shields.io/badge/Website-8A2BE2)](https://wojciechszutryk.github.io/portfolio/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wojciech-szutryk-693142215/) 
 
 # 💻 Tech Stack:
