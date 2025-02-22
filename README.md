@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # 👋 Hi there 
 My name is Wojciech.
 
-🔭 I’m currently working in SwarmCheck
+🔭 I’m currently working in StoneX Financial LTD.
 
 😄 I have a bachelor of science degree in Computer Science and Geodesy and Cartography.
 
