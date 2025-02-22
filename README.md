@@ -20,8 +20,6 @@ My name is Wojciech.
 
 😄 I have a bachelor of science degree in Computer Science and Geodesy and Cartography.
 
-🔧 I’m currently developing my programming skills.
-
 ⚡ Love playing Games, developing my skills, cooking, working out.
 
 📫 Ask me about anything, reach me via: wojtekszutryk@gmail.com
